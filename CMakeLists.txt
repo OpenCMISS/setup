@@ -13,7 +13,7 @@
 # The values in brackets indicate the default values, where [] denotes not set and | separates alternatives.
 #
 
-cmake_minimum_required(VERSION 2.6 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.15 FATAL_ERROR)
 
 project(OpenCMISS-Setup)
 cmake_policy(SET CMP0057 NEW)
